@@ -1,0 +1,19 @@
+.any{
+    background-image: linear-gradient(rgb(0,0,0,0.8),rgb(0,0,0,0.8)) ,url(/img/sam-te-kiefte-e6oBkKO8Avg-unsplas.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+   
+}  
+.card{
+    transition: 2.1s;
+}
+
+.card:hover{
+    transition: 1.5s;
+    transform:scale(1.1);
+    text-size-adjust: 1px;
+    text-decoration-color: blanchedalmond;
+    /* margin-top: 10px; */
+}
+
